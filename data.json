@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "title": "Machine Learning",
+        "image": "/images/ML.jpg",
+        "description": "Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed.",
+        "url" : "https://www.geeksforgeeks.org/machine-learning/"
+
+    },
+    {
+        "id": 2,
+        "title": "Deep Learning",
+        "image": "/images/DL.jpg",
+        "description": "Deep learning is a branch of machine learning which is capable of learning complex patterns and relationships within data.",
+        "url" : "https://www.geeksforgeeks.org/introduction-deep-learning/"
+
+    },
+    {
+        "id": 3,
+        "title": "Natural Language Processing",
+        "image": "/images/NLP.jpg",
+        "description": "Natural Language Processing is one of the hottest areas of artificial intelligence. Thanks to applications like text generators",
+        "url" : "https://www.deeplearning.ai/resources/natural-language-processing/"
+        
+        
+    },
+    {
+        "id": 4,
+        "title": "Computer Vision",
+        "image": "/images/CV.jpg",
+        "description": "Computer vision is a field of study within artificial intelligence (AI) that focuses on enabling computers to Intercept and extract",
+        "url" : "https://www.geeksforgeeks.org/computer-vision/"
+        
+    },
+    {
+        "id": 5,
+        "title": "Robotics",
+        "image": "/images/R.jpg",
+        "description": "In simple terms, robotics combines science, engineering, and technology to design, construct, operate, and use machines programmed to",
+        "url" : "https://formant.io/robotics/"
+        
+    },
+ {
+    "id": 6,
+        "title": "Large Language Model",
+        "image": "/images/NLP.jpg",
+        "description": "A large language model (LLM) is a type of artificial intelligence (AI) program that can recognize and generate text, among other tasks.",
+        "url" : "https://www.cloudflare.com/learning/ai/what-is-large-language-model/"
+        
+},
+{
+    "id": 7,
+        "title": "Expert Systems",
+        "image": "/images/ES.jpg",
+        "description": "An expert system is AI software that uses knowledge stored in a knowledge base to solve problems that would usually require a human expert",
+        "url" : "https://www.geeksforgeeks.org/expert-systems/"
+        
+},
+{
+    "id": 8,
+        "title": "Decision Trees",
+        "image": "/images/DL.jpg",
+        "description": "A decision tree is one of the most powerful tools of supervised learning algorithms used for both classification and regression tasks.",
+        "url" : "https://www.geeksforgeeks.org/decision-tree/"
+
+},
+{
+    "id": 9,
+        "title": "Theory of Mind ",
+        "image": "/images/ML.jpg",
+        "description": "Theory of Mind refers to the capacity to understand other people by ascribing mental states to them, surmising what is happening ",
+        "url" : "https://www.ejable.com/tech-corner/ai-machine-learning-and-deep-learning/theory-of-mind-ai-in-artificial-intelligence/"
+}
+
+
+    
+
+]
